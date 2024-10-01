@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DistributedCaching")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+606a643202792fea7147c8dccf0fc465333f7c4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DistributedCaching")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DistributedCaching")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
