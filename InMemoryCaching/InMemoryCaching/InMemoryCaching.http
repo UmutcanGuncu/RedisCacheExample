@@ -1,0 +1,7 @@
+﻿@InMemoryCaching_HostAddress = http://localhost:5052
+
+GET {{InMemoryCaching_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+

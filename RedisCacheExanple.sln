@@ -3,10 +3,24 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1706.14
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedCaching", "DistributedCaching\DistributedCaching\DistributedCaching.csproj", "{A17E1E73-67D3-4C89-949B-1ADD5EAC90E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryCaching", "InMemoryCaching\InMemoryCaching\InMemoryCaching.csproj", "{872C4E21-D670-464D-AAE4-A912436C1D07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A17E1E73-67D3-4C89-949B-1ADD5EAC90E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A17E1E73-67D3-4C89-949B-1ADD5EAC90E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A17E1E73-67D3-4C89-949B-1ADD5EAC90E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A17E1E73-67D3-4C89-949B-1ADD5EAC90E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{872C4E21-D670-464D-AAE4-A912436C1D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{872C4E21-D670-464D-AAE4-A912436C1D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{872C4E21-D670-464D-AAE4-A912436C1D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{872C4E21-D670-464D-AAE4-A912436C1D07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
